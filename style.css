@@ -151,7 +151,7 @@ nav {
     background-image: linear-gradient(to right,
             rgba(0, 0, 0, 0.2),
             rgba(0, 0, 0, 0.8)),
-        url("assets/header.jpg");
+        url("./img/calistenia2.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
